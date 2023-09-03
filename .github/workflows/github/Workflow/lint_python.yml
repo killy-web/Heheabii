@@ -1,4 +1,4 @@
-name: lint_python
+name: deploy to staging
 on: [pull_request, push]
 jobs:
   lint_python:
